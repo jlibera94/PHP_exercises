@@ -1,0 +1,70 @@
+#header{
+   height:80px;
+   top: 0;
+   left:0;
+   right:0;
+   position:relative;
+   border: solid 2px;
+ 
+}
+
+#footer{
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    height:30px;
+    border: solid black 2px;
+}
+
+
+
+#login-box{
+    border: solid black 2px;
+    top: 50px;
+    position: relative;
+    height: 150px;
+    width: 200px;
+}
+
+#login-reg{
+    position:fixed;
+    right: 50px;
+    top: 20px;
+}
+
+  h1 {color:black;
+      float: right;
+      display:inline-block;
+      vertical-align:middle;
+     }
+            
+                
+                #contain1{
+                    color: blue;
+                    background-color: lightblue;         
+                }
+                
+                #contain2{
+                    background-color: lightgray;
+                }
+                
+                #main-contain{
+                    background-color: beige;
+                }
+                
+                contain1.h2 {
+                    color: black;
+                }
+                
+                img{
+                    display: inline-block;
+                    float: left;
+                    width: 120px
+                }
+                
+                #header {
+                    display:inline-block;
+                    vertical-align:middle;
+                }
+                
